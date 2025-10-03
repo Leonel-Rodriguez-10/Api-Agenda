@@ -1,0 +1,10 @@
+<resources>
+    <!-- Tu tema de la app: hereda de Material3 y por lo tanto de AppCompat -->
+    <style name="Theme.Agenda" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Puedes dejarlo vacío por ahora o definir colores si ya los tienes -->
+        <!--
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        -->
+    </style>
+</resources>

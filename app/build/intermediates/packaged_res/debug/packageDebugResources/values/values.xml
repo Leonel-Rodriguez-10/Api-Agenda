@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add">Agregar</string>
+    <string name="app_name">Agenda</string>
+    <string name="category_id">Id Categoría</string>
+    <string name="confirm_delete">¿Eliminar contacto?</string>
+    <string name="delete">Eliminar</string>
+    <string name="edit">Editar</string>
+    <string name="name">Nombre</string>
+    <string name="phone">Teléfono</string>
+    <string name="save">Guardar</string>
+    <style name="Theme.Agenda" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+</resources>

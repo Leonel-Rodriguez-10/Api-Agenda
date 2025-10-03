@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.agenda.app-mergeDebugResources-32:/layout/activity_contact_form.xml",
+        "source": "com.example.agenda.app-main-35:/layout/activity_contact_form.xml"
+    },
+    {
+        "merged": "com.example.agenda.app-mergeDebugResources-32:/layout/item_contact.xml",
+        "source": "com.example.agenda.app-main-35:/layout/item_contact.xml"
+    },
+    {
+        "merged": "com.example.agenda.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.example.agenda.app-main-35:/layout/activity_main.xml"
+    }
+]
